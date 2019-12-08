@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ItsColdOutside/static/css/main.b100e6da.chunk.css",
+    "main.js": "/ItsColdOutside/static/js/main.d4078cb6.chunk.js",
+    "main.js.map": "/ItsColdOutside/static/js/main.d4078cb6.chunk.js.map",
+    "runtime-main.js": "/ItsColdOutside/static/js/runtime-main.bd96ae5d.js",
+    "runtime-main.js.map": "/ItsColdOutside/static/js/runtime-main.bd96ae5d.js.map",
+    "static/js/2.8c293e03.chunk.js": "/ItsColdOutside/static/js/2.8c293e03.chunk.js",
+    "static/js/2.8c293e03.chunk.js.map": "/ItsColdOutside/static/js/2.8c293e03.chunk.js.map",
+    "index.html": "/ItsColdOutside/index.html",
+    "precache-manifest.9fc5cd2b59943bacd363ebc76effc84a.js": "/ItsColdOutside/precache-manifest.9fc5cd2b59943bacd363ebc76effc84a.js",
+    "service-worker.js": "/ItsColdOutside/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/ItsColdOutside/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd96ae5d.js",
+    "static/js/2.8c293e03.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.d4078cb6.chunk.js"
+  ]
+}
